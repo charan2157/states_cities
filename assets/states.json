@@ -1,0 +1,5 @@
+{
+    "states":["telangana","AP"],
+    "telangana":["hyd","warangal"],
+    "AP":["vizag","vijayawada"]
+}
